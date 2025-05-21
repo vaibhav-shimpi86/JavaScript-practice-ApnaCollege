@@ -1,0 +1,53 @@
+.myclass {
+    color: blue;
+    background-color: yellow;
+}
+
+body {
+    background-color: pink;
+}
+
+#button {
+    background-color: blue;
+    color: white;
+}
+
+.Box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+.bx {
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 1px solid black;
+}
+
+#mode {
+    color: black;
+    border: 1px solid black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
